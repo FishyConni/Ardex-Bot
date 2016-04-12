@@ -1,0 +1,34 @@
+{
+  "groupchat-shadowcune-memedome": {
+    "say": "%",
+    "addcom": "%",
+    "delcom": "@",
+    "moderation": {
+      "flooding": "off",
+      "caps": "off",
+      "face": "off",
+      "spam": "off",
+      "stretching": "off"
+    }
+  },
+  "groupchat-teremiare-memebottesting": {
+    "moderation": {
+      "flooding": "off",
+      "caps": "off",
+      "stretching": "off",
+      "face": "off"
+    }
+  },
+  "swag": {
+    "say": "%",
+    "addcom": "+"
+  },
+  "groupchat-keeperofthelight-comedyandhumor": {
+    "moderation": {
+      "flooding": "off",
+      "stretching": "on",
+      "face": "on",
+      "caps": "on"
+    }
+  }
+}

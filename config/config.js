@@ -2,9 +2,9 @@
 // info of the server you're trying to connect to
 // this has to be filled in
 exports.info = {
-    server: "shadowforce",
+    server: "188.221.149.215.psim.us",
     port: 8000,
-    serverid: "shadowforce.psim.us",
+    serverid: "shadowforce",
 };
 
 // information regarding the bot's login information
